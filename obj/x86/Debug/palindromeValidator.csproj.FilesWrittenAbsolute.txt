@@ -1,0 +1,5 @@
+/Users/Bennett/Desktop/IGME-102/projects/palindromeValidator/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Bennett/Desktop/IGME-102/projects/palindromeValidator/bin/Debug/palindromeValidator.exe.mdb
+/Users/Bennett/Desktop/IGME-102/projects/palindromeValidator/bin/Debug/palindromeValidator.exe
+/Users/Bennett/Desktop/IGME-102/projects/palindromeValidator/obj/x86/Debug/palindromeValidator.exe
+/Users/Bennett/Desktop/IGME-102/projects/palindromeValidator/obj/x86/Debug/palindromeValidator.exe.mdb

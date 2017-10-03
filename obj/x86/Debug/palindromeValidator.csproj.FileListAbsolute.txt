@@ -1,0 +1,5 @@
+/Users/Bennett/Desktop/RIT 16-17/RIT SPRING 2016/IGME-102/projects/palindromeValidator/bin/Debug/palindromeValidator.exe
+/Users/Bennett/Desktop/RIT 16-17/RIT SPRING 2016/IGME-102/projects/palindromeValidator/bin/Debug/palindromeValidator.pdb
+/Users/Bennett/Desktop/RIT 16-17/RIT SPRING 2016/IGME-102/projects/palindromeValidator/obj/x86/Debug/palindromeValidator.csproj.CoreCompileInputs.cache
+/Users/Bennett/Desktop/RIT 16-17/RIT SPRING 2016/IGME-102/projects/palindromeValidator/obj/x86/Debug/palindromeValidator.exe
+/Users/Bennett/Desktop/RIT 16-17/RIT SPRING 2016/IGME-102/projects/palindromeValidator/obj/x86/Debug/palindromeValidator.pdb
